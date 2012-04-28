@@ -1,0 +1,1 @@
+(defun twice (x) (+ x x))
