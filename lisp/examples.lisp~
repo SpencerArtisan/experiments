@@ -1,0 +1,5 @@
+(defun hello () (format t "hi there"))
+
+(defun foo()
+  (if (test)
+(dewd)))
