@@ -1,0 +1,7 @@
+clone this repository into your web client project folder.  It will create two subfolders
+
+script: Place your coffee scripts here
+spec: Place your coffee specs here
+
+To run the tests use the SpecRunner.html file.  You must explicitly reference the spec and code js files in here.  These js files are generated from the coffee, either automatically using vim, or with the coffee -c command.
+
